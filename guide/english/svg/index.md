@@ -132,6 +132,7 @@ This draws the following chart:
 ## Editors
 
 * [Vectr](https://vectr.com) - web and desktop tool for creating and editing SVG graphics, free of charge
+* Boxy SVG](https://boxy-svg.com/) - "Boxy SVG project goal is to create the best SVG editor for non-technical users as well as for professional web designers and web developers."
 
 ## Tools to create SVG
 
